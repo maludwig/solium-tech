@@ -20,7 +20,7 @@ java -classpath "test;src;lib/hamcrest-core-1.3.jar;lib/junit-4.12.jar" org.juni
 
 ## Part 2 - Stacktrace Debugging
 
-A request for future people given this quiz, if you have the raw stacktrac.txt, that would be very nice. The PDF adds line breaks.
+A request for future people given this quiz, if you have the raw stacktrace.txt, that would be very nice. The PDF adds line breaks.
 
 ### 1. Give some examples of lines in the call trace that you think are part of the shareworks code base?
 
