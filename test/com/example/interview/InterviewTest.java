@@ -71,7 +71,7 @@ public class InterviewTest {
         assertEquals("aba",Interview.findOddLengthPalindrome("aba", 1));
         assertEquals("abcba",Interview.findOddLengthPalindrome("abcba", 2));
         assertEquals("abcba",Interview.findOddLengthPalindrome("zzabcba", 4));
-        assertEquals("zabcba",Interview.findOddLengthPalindrome("zzabcbaxx", 4));
+        assertEquals("abcba",Interview.findOddLengthPalindrome("zzabcbaxx", 4));
         assertEquals(null,Interview.findOddLengthPalindrome("zzabccbaxx", 5));
     }
 
